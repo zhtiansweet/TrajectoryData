@@ -1,0 +1,210 @@
+
+Intelligentsia Coffee
+41.884489 -87.625928 200
+
+HERO Coffee Bar
+41.875881 -87.629079 205
+
+Bow Truss Coffee Roasters
+41.889441 -87.634248 210
+
+Intelligentsia Coffee
+41.877975 -87.629570 215
+
+La Colombe Torrefaction
+41.884027 -87.651928 220
+
+Overflow Coffee Bar
+41.860482 -87.627782 225
+
+Dollop Coffee & Tea
+41.892395 -87.618815 230
+
+The Coffee Alley
+41.869604 -87.656338 235
+
+Cafecito
+41.875831 -87.626394 240
+
+Sip Coffee House & Garden
+41.890875 -87.658397 245
+
+Starbucks
+41.884702 -87.637358 250
+
+Starbucks
+41.900983 -87.627429 201
+
+Starbucks
+41.878865 -87.636082 206
+
+Starbucks
+41.882491 -87.639697 211
+
+Starbucks
+41.879276 -87.624887 216
+
+Starbucks
+41.885136 -87.621509 221
+
+Starbucks
+41.879420 -87.640905 226
+
+Starbucks
+41.899005 -87.628099 231
+
+Starbucks
+41.911302 -87.635020 236
+
+Starbucks
+41.879037 -87.631299 241
+
+Lao Sze Chuan-Downtown
+41.891463 -87.624617 600
+
+Shanghai Terrace at The Peninsula Chicago
+41.896004 -87.625112 605
+
+Yum Cha Dim Sum Parlor
+41.885302 -87.618241 610
+
+Wow Bao
+41.897802 -87.622877 615
+
+Joy Yee's Noodle Shop
+41.864409 -87.646696 620
+
+Girl & the Goat
+41.884168 -87.647971 625
+
+The Purple Pig
+41.891116 -87.624458 630
+
+Xoco
+41.890705 -87.630871 635
+
+Quartino
+41.893421 -87.628346 640
+
+Portillo's Hot Dogs
+41.893403 -87.631424 645
+
+Greek Islands Restaurant
+41.878985 -87.647592 650
+
+Meli Cafe & Juice Bar
+41.877805 -87.647082 601
+
+Artopolis
+41.877621 -87.647587 606
+
+The Parthenon
+41.877388 -87.647455 611
+
+Athena Greek Restaurant
+41.878645 -87.647595 616
+
+Zeus Gyros
+41.878139 -87.647724 50
+
+Taco Burrito King
+41.877784 -87.647806 55
+
+Mr Greek Gyros
+41.878116 -87.647442 60
+
+Eggsperience Pancakes and Cafe
+41.880855 -87.647610 65
+
+Primos Chicago Pizza Pasta
+41.876765 -87.648156 70
+
+Toppers Pizza
+41.879677 -87.647548 75
+
+BIG & little's
+41.898308 -87.637494 80
+
+Chick-fil-A
+41.896887 -87.627050 85
+
+Da Lobsta
+41.902526 -87.627877 90
+
+Five Guys Burgers and Fries
+41.867747 -87.626252 95
+
+Chipotle Mexican Grill
+41.887289 -87.624989 100
+
+Taco Bell
+41.882308 -87.640513 51
+
+La Cocina
+41.885426 -87.635599 56
+
+Al's Beef
+41.893009 -87.633918 61
+
+Urban Counter
+41.867047 -87.625442 66
+
+U.B. Dogs
+41.885489 -87.635217 71
+
+Pizano's Pizza
+41.898626 -87.628496 76
+
+The Aberdeen Tap
+41.890142 -87.654805 500
+
+The 3rd Coast
+41.905618 -87.630325 505
+
+Fado Irish Pub & Restaurant
+41.891758 -87.631340 510
+
+The Gage
+41.881315 -87.624681 515
+
+First Draft
+41.873494 -87.630315 520
+
+Woodie's Flat
+41.910198 -87.634404 525
+
+Polk Street Pub
+41.872150 -87.641383 530
+
+Three Aces
+41.869144 -87.660076 535
+
+Celtic Crossings
+41.896320 -87.630984 540
+
+Farmhouse
+41.896813 -87.635383 545
+
+ShowPlace ICON
+41.869558 -87.632598 900
+
+AMC River East 21
+41.891325 -87.618996 905
+
+Chicago Theatre
+41.885499 -87.627573 910
+
+Cadillac Palace
+41.884320 -87.632780 915
+
+Lookingglass Theatre
+41.897179 -87.623771 920
+
+Navy Pier IMAX Theatre
+41.891930 -87.609226 925
+
+Harris Theater For Music And Dance
+41.884170 -87.621899 930
+
+Bank of America Theatre
+41.880855 -87.628462 935
