@@ -65,6 +65,7 @@ public class MultiPoint_MultiTrj {
 		File inFile = new File ("./Data/2000v2000t.txt");
 		File inFile2 = new File ("./Data/POI.txt");
 		
+		//Read and store trajectories
 		ArrayList<ArrayList<input>> insertion=new ArrayList<ArrayList<input>>();
 		Scanner sc = new Scanner (inFile);
 		String line=sc.nextLine();
